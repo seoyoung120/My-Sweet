@@ -252,4 +252,3 @@ document.addEventListener("click", function(event) {
     dropdownImg.classList.remove("show");
   }
 });
-
